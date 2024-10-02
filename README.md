@@ -14,24 +14,41 @@ This project is a graphical user interface (GUI) application built with Python's
 - Python 3.12 installed on your machine.
 - Tkinter library (usually included with standard Python installations).
 
-##**Example**
+**Example**
 
-Encrypting a Message
+**Encrypting a Message**
 
-Enter: hello
+- Enter: hello
 
-Shift value: 3
+- Shift value: 3
 
-Result: Encrypted Message: khoor
+- Result: Encrypted Message: khoor
 
-#Decrypting a Message
+**Decrypting a Message**
 
-Enter: khoor
+- Enter: khoor
 
-Shift value: 3
+- Shift value: 3
 
-Result: Decrypted Message: hello
+- Result: Decrypted Message: hello
 
-#Error Handling
+**Error Handling**
 
 If the shift value is not a valid integer, an error message will prompt the user to enter a valid value.
+
+**Screenshot**
+
+**Before executing**
+![image](https://github.com/user-attachments/assets/af51d5cf-7a1b-4fd6-943c-6202cf58f854)
+
+**after executing Encryption**
+
+![image](https://github.com/user-attachments/assets/7bffe899-b2db-46df-bed3-6ec9e6392105)
+
+**after executing Decryption**
+
+![image](https://github.com/user-attachments/assets/e70ab2fa-1b55-4474-a39b-27f9982fef88)
+
+
+
+
